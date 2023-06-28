@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-28T12:32:41 IST" name="Default suite" finished-at="2023-06-28T12:36:13 IST" duration-ms="211813">
+    <groups>
+    </groups>
+    <test started-at="2023-06-28T12:32:41 IST" name="Default test" finished-at="2023-06-28T12:36:13 IST" duration-ms="211813">
+      <class name="Methods.Exelwash_Operations">
+        <test-method signature="enter_user_SignUp_Details()[pri:0, instance:Methods.Exelwash_Operations@72d1ad2e]" started-at="2023-06-28T12:32:41 IST" name="enter_user_SignUp_Details" finished-at="2023-06-28T12:34:19 IST" duration-ms="98300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_user_SignUp_Details -->
+        <test-method signature="enter_user_Login_Details()[pri:2, instance:Methods.Exelwash_Operations@72d1ad2e]" started-at="2023-06-28T12:34:19 IST" name="enter_user_Login_Details" finished-at="2023-06-28T12:34:56 IST" duration-ms="36330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_user_Login_Details -->
+        <test-method signature="click_On_Services()[pri:3, instance:Methods.Exelwash_Operations@72d1ad2e]" started-at="2023-06-28T12:34:56 IST" name="click_On_Services" finished-at="2023-06-28T12:35:36 IST" duration-ms="39980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_On_Services -->
+        <test-method signature="chacking_Home_Page_Functionality()[pri:4, instance:Methods.Exelwash_Operations@72d1ad2e]" started-at="2023-06-28T12:35:36 IST" name="chacking_Home_Page_Functionality" finished-at="2023-06-28T12:36:13 IST" duration-ms="37051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chacking_Home_Page_Functionality -->
+      </class> <!-- Methods.Exelwash_Operations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
